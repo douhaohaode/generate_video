@@ -13,7 +13,35 @@ gradio
 transformers
 dlib
 urllib3==1.26.6
+#windows pip3 install soundfile
 
-torch
-torchaudio
-torchvision
+
+moviepy==1.0.3
+
+
+#CodeFormer
+addict
+future
+lmdb
+requests
+tb-nightly
+tqdm
+yapf
+lpips
+gdown # supports downloading the large file from Google Drive
+
+
+
+
+
+
+
+#torch
+#torchaudio
+#torchvision
+
+#windows GPU
+#pip3 install torch torchvision torchaudio  --index-url https://download.pytorch.org/whl/cu121
+
+#windwos CPU  或者 mac CPU MPS
+# pip3 install torch torchvision torchaudio torchaudio
