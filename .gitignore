@@ -4,3 +4,6 @@
 *.pyc
 .idea/
 venv/
+.cache/
+results/
+pretrained_models/
