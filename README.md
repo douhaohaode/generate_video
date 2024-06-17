@@ -1,6 +1,6 @@
-#generate_video
+# generate_video
 
-##这是两个关于图片和音频驱动头像的开源项目整合
+## 这是两个关于图片和音频驱动头像的开源项目整合
 1. [dreamTalk](https://github.com/ali-vilab/dreamtalk)
 2. [hallo](https://github.com/fudan-generative-vision/hallo)
 
